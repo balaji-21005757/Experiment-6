@@ -1,4 +1,5 @@
-# Experiment-6
+# Experiment-4
+# Java program to create a method to calculate power of a number raised to other 
 ## Aim :
 To define a method to calculate power of a number raised to other i.e. ab using recursion where the numbers 'a' and 'b' are to be entered by the user.
 ## Algorithm :
